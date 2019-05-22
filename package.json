@@ -21,5 +21,9 @@
   "homepage": "https://github.com/markoradenkovic/testing-with-jest#readme",
   "dependencies": {
     "underscore": "^1.9.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.32.1",
+    "webpack-cli": "^3.3.2"
   }
 }
